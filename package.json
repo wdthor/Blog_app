@@ -1,0 +1,19 @@
+{
+  "name": "restful_blog",
+  "version": "1.0.0",
+  "description": "RESTful Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevthierry/Blog_app.git"
+  },
+  "author": "Thierry HOR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevthierry/Blog_app/issues"
+  },
+  "homepage": "https://github.com/webdevthierry/Blog_app#readme"
+}
